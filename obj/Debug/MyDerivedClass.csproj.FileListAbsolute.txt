@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\MyDerivedClass\bin\Debug\MyDerivedClass.exe.config
+C:\Users\Wiz\Desktop\IGME 201\MyDerivedClass\bin\Debug\MyDerivedClass.exe
+C:\Users\Wiz\Desktop\IGME 201\MyDerivedClass\bin\Debug\MyDerivedClass.pdb
+C:\Users\Wiz\Desktop\IGME 201\MyDerivedClass\obj\Debug\MyDerivedClass.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\MyDerivedClass\obj\Debug\MyDerivedClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\MyDerivedClass\obj\Debug\MyDerivedClass.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\MyDerivedClass\obj\Debug\MyDerivedClass.exe
+C:\Users\Wiz\Desktop\IGME 201\MyDerivedClass\obj\Debug\MyDerivedClass.pdb
